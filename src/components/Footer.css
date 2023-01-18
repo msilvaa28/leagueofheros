@@ -1,0 +1,15 @@
+#footer{
+    background-color: rgb(194, 129, 255);
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-weight: bold;
+    color: white;
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+
+p{
+    margin: 1;
+}
